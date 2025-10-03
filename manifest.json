@@ -1,5 +1,5 @@
 {
-  "manifest_version": 1,
+  "manifest_version": 3,
   "name": "VGen Portfolio Tag Manager",
   "version": "1.0",
   "description": "A simple extension to manage tags on the VGen portfolio page.",
