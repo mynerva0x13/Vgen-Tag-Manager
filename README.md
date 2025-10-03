@@ -41,7 +41,7 @@ insertion, and clear functionality.
 ### Option 2: Install from Release (if available)
 
 1.  Go to the **Releases** page on this repo\
-2.  Download the latest `.zip` or `.crx` build\
+2.  Download the latest `.zip` 
 3.  Drag and drop it into `chrome://extensions/`
 
 ------------------------------------------------------------------------
