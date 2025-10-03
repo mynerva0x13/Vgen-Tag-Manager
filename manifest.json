@@ -1,0 +1,23 @@
+{
+  "manifest_version": 1,
+  "name": "VGen Portfolio Tag Manager",
+  "version": "1.0",
+  "description": "A simple extension to manage tags on the VGen portfolio page.",
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  },
+  "web_accessible_resources": [
+    {
+      "resources": ["icon48.png"],
+      "matches": ["<all_urls>"]
+    }
+  ],
+  "content_scripts": [
+    {
+      "matches": ["https://vgen.co/creator/portfolio"],
+      "js": ["content.js"]
+    }
+  ]
+}
