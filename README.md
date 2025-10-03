@@ -100,6 +100,16 @@ This will refresh the input and allow it to work as expected.
 
 ------------------------------------------------------------------------
 
+## ☕ Support Me
+
+If you like this project and want to support further development, you can:
+
+- Buy me a coffee on [Ko-fi](https://ko-fi.com/yuzukikouta58722)  
+- Check out my work on [VGen](https://vgen.co/yuz_mynerva0x13)
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/yuzukikouta58722)
+
+
 ## 📜 License
 
 MIT License © 2025 Yuzuki Kouta
